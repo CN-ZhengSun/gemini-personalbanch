@@ -1,0 +1,6 @@
+{
+  "name": "Personal-Bench 测试工作台",
+  "description": "基于 Personal-Bech 的单用户敏捷测试管理平台：涵盖需求PRD、测试用例、测试计划与执行、缺陷全生命周期跟踪、自动化脚本库、API测试、埋点监控、ADB终端工具、知识库、测试Skill库及AI测试助手。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
